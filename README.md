@@ -1,6 +1,6 @@
 # Branding Assets
 
-This repository contains a11yhood all branding assets including logos in various formats.
+This repository contains all branding assets including logos in various formats.
 
 ## PNG Files
 
@@ -70,20 +70,48 @@ No JPG files found in this repository.
 
 ## SVG Files
 
-### AllyHood Logo v2.0 Layer 1 (SVG) - 8KB
+### Illustrator (SVG) Format
+
+#### AllyHood Logo v2.0 Layer 1 (SVG - Illustrator) - 8KB
 
 ![AllyHood Logo v2.0 Layer 1](logo/Illustrator%20(SVG)/AllyHood%20Logo%20v2.0%20Layer%201.svg)
 
 [logo/Illustrator (SVG)/AllyHood Logo v2.0 Layer 1.svg](logo/Illustrator%20(SVG)/AllyHood%20Logo%20v2.0%20Layer%201.svg)
 
-### AllyHood Logo v2.0 Layer 2 (SVG) - 3KB
+#### AllyHood Logo v2.0 Layer 2 (SVG - Illustrator) - 3KB
 
 ![AllyHood Logo v2.0 Layer 2](logo/Illustrator%20(SVG)/AllyHood%20Logo%20v2.0%20Layer%202.svg)
 
 [logo/Illustrator (SVG)/AllyHood Logo v2.0 Layer 2.svg](logo/Illustrator%20(SVG)/AllyHood%20Logo%20v2.0%20Layer%202.svg)
 
-### AllyHood Logo v2.0 Layer 3 (SVG) - 1KB
+#### AllyHood Logo v2.0 Layer 3 (SVG - Illustrator) - 1KB
 
 ![AllyHood Logo v2.0 Layer 3](logo/Illustrator%20(SVG)/AllyHood%20Logo%20v2.0%20Layer%203.svg)
 
 [logo/Illustrator (SVG)/AllyHood Logo v2.0 Layer 3.svg](logo/Illustrator%20(SVG)/AllyHood%20Logo%20v2.0%20Layer%203.svg)
+
+### Inkscape (SVG) Format
+
+#### AllyHood Logo v2.0 Layer 1 (SVG - Inkscape) - 8KB
+
+![AllyHood Logo v2.0 Layer 1](logo/Inkscape%20(SVG)/AllyHood%20Logo%20v2.0%20Layer%201.svg)
+
+[logo/Inkscape (SVG)/AllyHood Logo v2.0 Layer 1.svg](logo/Inkscape%20(SVG)/AllyHood%20Logo%20v2.0%20Layer%201.svg)
+
+#### AllyHood Logo v2.0 Layer 2 (SVG - Inkscape) - 3KB
+
+![AllyHood Logo v2.0 Layer 2](logo/Inkscape%20(SVG)/AllyHood%20Logo%20v2.0%20Layer%202.svg)
+
+[logo/Inkscape (SVG)/AllyHood Logo v2.0 Layer 2.svg](logo/Inkscape%20(SVG)/AllyHood%20Logo%20v2.0%20Layer%202.svg)
+
+#### AllyHood Logo v2.0 Layer 3 (SVG - Inkscape) - 1KB
+
+![AllyHood Logo v2.0 Layer 3](logo/Inkscape%20(SVG)/AllyHood%20Logo%20v2.0%20Layer%203.svg)
+
+[logo/Inkscape (SVG)/AllyHood Logo v2.0 Layer 3.svg](logo/Inkscape%20(SVG)/AllyHood%20Logo%20v2.0%20Layer%203.svg)
+
+#### AllyHood Logo Small v2.0 (SVG - Inkscape) - 8KB
+
+![AllyHood Logo Small v2.0](logo/Inkscape%20(SVG)/AllyHood%20Logo%20Small%20v2.0.svg)
+
+[logo/Inkscape (SVG)/AllyHood Logo Small v2.0.svg](logo/Inkscape%20(SVG)/AllyHood%20Logo%20Small%20v2.0.svg)
